@@ -1,8 +1,8 @@
 🔭 Изучал веб-разработку на курсах ZTM !
 
-🌱 Постоянно улучшаю сною навыки.
+🌱 Постоянно улучшаю свои навыки.
 
-📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sane4eknaumov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mfq07k9cz@gmail.com) 
+📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/telegram-sane4eknaumov-blue)](https://t.me/sane4eknaumov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mfq07k9cz@gmail.com) 
 
 
 ### 💻 Технологии:
